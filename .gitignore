@@ -1,0 +1,7 @@
+*.pyc
+.env
+.idea
+.DS_Store
+db/*
+setenv.bat
+
